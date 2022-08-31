@@ -1,3 +1,3 @@
 ## Nft Project
 
-## Made with love by [@nft](https://twitter.com/favvyosii) and thirdweb
+## Made with love by [favvy](https://twitter.com/favvyosii) and thirdweb
